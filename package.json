@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap-switch": "^3.3.4",
+    "css-toggle-switch": "^4.1.0",
     "express": "^4.16.2"
   }
 }
